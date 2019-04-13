@@ -12,4 +12,9 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="text">Text</string>
+    <string name="chose_question_type">Chose question Type</string>
+    <string name="add">Add</string>
+    <string name="answer_text">Answer text</string>
 </resources>
